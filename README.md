@@ -1,1 +1,1 @@
-# scm1.github.io
+Rasoi Adda is a community-driven recipe-sharing platform where food lovers can discover, share, and explore a variety of recipes. From traditional dishes to modern fusion, users can find easy-to-follow recipes, share their own creations, and connect with others to inspire and exchange cooking ideas. It’s a space that makes cooking fun and accessible for everyone.
